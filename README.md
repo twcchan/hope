@@ -1,4 +1,18 @@
-# Junior Backend Developer Assessment 
+# Junior Backend Developer Assessment
+
+Node.js app: /user_reg/server.js
+
+Postman: /user_reg/test/postman_collection.json
+
+APIs:
+
+1. /api/register
+
+2. /api/login
+
+3. /api/actions/changepassword
+
+4. /api/profiles
 
 Notes / Assumptions:
 
@@ -13,6 +27,20 @@ Notes / Assumptions:
 5. For security reason, same error message will be shown for wrong username / password
 
 # Senior Backend Developer Assessment
+
+Node.js app: /student_reg/server.js
+
+Postman: /student_reg/test/postman_collection.json
+
+APIs:
+
+1. /api/register
+
+2. /api/commonstudents
+
+3. /api/suspend
+
+4. /api/retrievefornotifications
 
 Notes / Assumptions:
 
